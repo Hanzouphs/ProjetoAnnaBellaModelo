@@ -1,0 +1,47 @@
+			body{
+			background: #d2d2c1 url('imagens/fundo.png');
+			fonte: 16px Arial, Helvetica, sans-serif; }
+
+			#principal {
+				width: 900px;
+
+			}
+
+			#menu {
+				background: #c5c5b2;
+				padding: 18px;
+				margin-top: 0px;
+			}
+
+			#conteudo {
+				background: #e8e8d9;
+				paddind 10px;
+				padding-bottom: 5px;
+				padding-top: 3px;
+				padding-left: 10px;
+				padding-right: 10px;
+
+			}
+
+			#rodape { margin-bottom: 10px;
+
+			}
+
+			a {
+				color: #4b566a;
+				text-decoration: none;
+				font-weight: bold;
+				padding: 5px;
+			}
+
+			.centralizar{
+				text-align: center;
+			}
+			h1{
+				color: #828271;
+				font-size: 1.2em;
+			}
+
+			.img-campanha {
+				border: 10px solid #c3c3ae;
+			}
